@@ -1,0 +1,4 @@
+-keep class com.cinematy.video.data.Video { *; }
+-keepclassmembers class * { @org.json.** *; }
+-dontwarn org.checkerframework.**
+-dontwarn com.google.common.**

@@ -1,0 +1,9 @@
+Y video
+Copyright 2026 Yehia Abu Almagd
+
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+Third-party: the Great Vibes font (Latin subset) is under the SIL Open Font
+License 1.1, see licenses/OFL-GreatVibes.txt. Libraries (AndroidX, Jetpack
+Compose, Media3, Coil, Kotlin coroutines) are Apache-2.0 and are downloaded at
+build time, not included in this repository.
